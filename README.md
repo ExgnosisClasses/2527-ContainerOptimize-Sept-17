@@ -1,1 +1,13 @@
-# 2527-ContainerOptimize-Sept-17
+# Container Optimization - March 18
+
+## Student Repository
+
+This is the student repository for the Sept 17, 2025 Container Optimization class
+
+The repository will be available until Oct 15, 2025
+
+## Link to Labs
+
+The lab files for this class are located [here](https://jruels.github.io/container-optimization/)
+
+
